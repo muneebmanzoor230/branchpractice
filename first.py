@@ -1,3 +1,3 @@
 a = 22
 b = 8
-print("The sum of a and b is:", a + b)
+print("The resulttttt of a ,b and c is:", a + b )
